@@ -1,4 +1,4 @@
-public class wagesformonthUC5 { 
+public class Assignment1 { 
 
     public static final int IS_PART_TIME = 1;
     public static final int IS_FULL_TIME = 2;
