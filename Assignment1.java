@@ -1,4 +1,4 @@
-public class EmpWageUC2 {
+public class Assignment1 {
     public static void main(String[] args) {
         //constant
         int IS_FULL_TIME = 1;
